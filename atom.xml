@@ -6,7 +6,7 @@
   <link href="https://misharo9.github.io/atom.xml" rel="self"/>
   
   <link href="https://misharo9.github.io/"/>
-  <updated>2025-09-12T08:17:42.775Z</updated>
+  <updated>2025-09-15T07:57:37.565Z</updated>
   <id>https://misharo9.github.io/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test</title>
-    <link href="https://misharo9.github.io/2025/09/12/Test/"/>
-    <id>https://misharo9.github.io/2025/09/12/Test/</id>
-    <published>2025-09-12T08:16:22.000Z</published>
-    <updated>2025-09-12T08:17:42.775Z</updated>
+    <title>开篇的话</title>
+    <link href="https://misharo9.github.io/2025/09/15/%E5%BC%80%E7%AF%87%E7%9A%84%E8%AF%9D/"/>
+    <id>https://misharo9.github.io/2025/09/15/%E5%BC%80%E7%AF%87%E7%9A%84%E8%AF%9D/</id>
+    <published>2025-09-15T07:38:30.000Z</published>
+    <updated>2025-09-15T07:57:37.565Z</updated>
     
-    <content type="html"><![CDATA[<p>This is just a testing blog.</p><h2 id="Testing-math-formular"><a href="#Testing-math-formular" class="headerlink" title="Testing math formular"></a>Testing math formular</h2><p>$$ e^{i\theta} + 1 &#x3D; 0 $$</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="我为什么要写博客？"><a href="#我为什么要写博客？" class="headerlink" title="我为什么要写博客？"></a>我为什么要写博客？</h2><p>上个学期，看到同学做了自己的博客，当时不以为意，惟觉繁琐。</p><p>暑假期间，因为实在太闲，搭建了自己的博客，想给自己一个独立于朋友圈之外的发表平台，一个情感与写作的出口，以此记录自己所学所做，记录自己在科研与技术上的探索。</p><p>朋友圈是记录生活的，是短平快的。这个博客将会展示一些更加学术，更加有趣的内容；也会有生活的记录，旅途的记录，对于美食美景的记录。</p><p>这就是我决心写博客的原因。</p><h2 id="你能在这看到什么？"><a href="#你能在这看到什么？" class="headerlink" title="你能在这看到什么？"></a>你能在这看到什么？</h2><p>如首页所言，我会在这介绍理论计算机（TCS），当下科研内容，游戏评测与生活记录。内容很杂，包罗万象，可以理解为带有学术性质的赛博杂文集。</p><p>当下准备先将上学期的TCS内容整理为博客，这是我主要想写的内容。在这之前，我将展示我最近对CSGO外挂的探索。写作语言由写作内容决定。</p><p>最后，感谢你来看我的博客。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;This is just a testing blog.&lt;/p&gt;
-&lt;h2 id=&quot;Testing-math-formular&quot;&gt;&lt;a href=&quot;#Testing-math-formular&quot; class=&quot;headerlink&quot; title=&quot;Testing math f</summary>
+    <summary type="html">&lt;h2 id=&quot;我为什么要写博客？&quot;&gt;&lt;a href=&quot;#我为什么要写博客？&quot; class=&quot;headerlink&quot; title=&quot;我为什么要写博客？&quot;&gt;&lt;/a&gt;我为什么要写博客？&lt;/h2&gt;&lt;p&gt;上个学期，看到同学做了自己的博客，当时不以为意，惟觉繁琐。&lt;/p&gt;
+&lt;p&gt;暑假期间，</summary>
       
     
     
