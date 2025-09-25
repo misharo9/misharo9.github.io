@@ -6,7 +6,7 @@
   <link href="https://misharo9.github.io/atom.xml" rel="self"/>
   
   <link href="https://misharo9.github.io/"/>
-  <updated>2025-09-25T10:59:40.456Z</updated>
+  <updated>2025-09-25T11:56:24.240Z</updated>
   <id>https://misharo9.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TCS 1 : Introduction</title>
+    <link href="https://misharo9.github.io/2025/09/25/TCS-1-Introduction/"/>
+    <id>https://misharo9.github.io/2025/09/25/TCS-1-Introduction/</id>
+    <published>2025-09-25T11:00:52.000Z</published>
+    <updated>2025-09-25T11:56:24.240Z</updated>
+    
+    <content type="html"><![CDATA[<p>Theoretical computer science is a discipline which studies about computation theory. It tries to answer the following question :</p><ol><li>What is computation?</li><li>What are the problems suitable for computers to solve? Why are some problems impossible for computers to solve?</li><li>What is the mysterious connection between complexity theory and cryptography?</li></ol><p>In this series of blogs, I will introduce some basic concepts and fun facts in TCS, and hopefully you will be guided through the intellectual landscape of Turing Machine, lambda-calculus, complexity theory, and cryptography.</p><h2 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h2><p>You should have some basic knowledge about :</p><ol><li>Mathematical logic, especially about propositional calculus and ZFC.</li><li>Graph theory.</li><li>Turing machine.</li></ol><p>I will simply review the knowledge above when needed. But if you don’t recognize them, please first learn about <strong>Discrete Mathematics</strong>.</p><p>This series of blogs comes from <strong>Introduction to Theoretical Computer Science</strong> lectured by Prof. Zhengfeng Ji, Tsinghua University. If you are a student from Department of Computer Science and Technology, Tsinghua University, I strongly recommend you to attend this course. This course may be challenging for you, but you will earn a lot after finishing it. (In fact, this course is challenging for everyone except some gifted ones.)</p><p>I will write this in English because there are not translations commoly accepted in TCS.</p><h2 id="Why-Should-You-Know-about-TCS"><a href="#Why-Should-You-Know-about-TCS" class="headerlink" title="Why Should You Know about TCS?"></a>Why Should You Know about TCS?</h2><p>If you are student from CS, you should care about it because logic and mathematics are the language of computer science.<br>If not, then forget about it. This is just a reading material for recreation.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><strong>Introduction to Theoretical Computer Science</strong>, Zhengfeng Ji.<br><a href="https://introtcs.org/">Introduction to Computer Science</a>, Boaz Barak.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Theoretical computer science is a discipline which studies about computation theory. It tries to answer the following question :&lt;/p&gt;
+&lt;ol&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="TCS" scheme="https://misharo9.github.io/tags/TCS/"/>
+    
+  </entry>
   
   <entry>
     <title>开篇的话</title>
